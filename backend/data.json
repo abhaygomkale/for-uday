@@ -1,0 +1,11 @@
+[
+  {
+    "text": "Flood in Nagpur, need help urgently",
+    "city": "Nagpur",
+    "lat": 21.1458,
+    "lon": 79.0882,
+    "urgency": "HIGH",
+    "disaster_type": "flood",
+    "time": "2026-03-24"
+  }
+]
