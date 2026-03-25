@@ -203,6 +203,7 @@ def get_weather(city: str):
         lat = data['coord']['lat']
         lon = data['coord']['lon']
 
+
         weather_data = {
             "city": city,
             "temp": temp,
